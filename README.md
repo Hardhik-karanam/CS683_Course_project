@@ -11,12 +11,6 @@ We refer the users to Sniper's [website](https://snipersim.org/w/Getting_Started
 
 
 
-## Contact 
-
-Konstantinos Kanellopoulos <konkanello@gmail.com>  
-Konstantinos Sgouras <sgouraskon@gmail.com>
-
-
 
 
 
